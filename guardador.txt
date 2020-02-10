@@ -1,8 +1,4 @@
-O Guardador de Rebanhos
-Alberto Caeiro (heterônimo de Fernando Pessoa)
-(Fonte: http://www.cfh.ufsc.br/~magno/guardador.htm)
-
-I - Eu Nunca Guardei Rebanhos
+# I - Eu Nunca Guardei Rebanhos
 
 Eu nunca guardei rebanhos,
 Mas é como se os guardasse.
@@ -51,7 +47,7 @@ E corre um silêncio pela erva fora.
 
 Quando me sento a escrever versos
 
-Ou, passeando pelos caminhos ou pelos atalhos,
+Ou, passeando pelos caminhos ou pelos atalhos,
 Escrevo versos num papel que está no meu pensamento,
 Sinto um cajado nas mãos
 E vejo um recorte de mim
@@ -79,7 +75,7 @@ Se sentavam com um baque, cansados de brincar,
 E limpavam o suor da testa quente
 Com a manga do bibe riscado.
 
-II - O Meu Olhar
+# II - O Meu Olhar
 
 O meu olhar é nítido como um girassol.
 Tenho o costume de andar pelas estradas
@@ -105,13 +101,13 @@ Mas para olharmos para ele e estarmos de acordo...
 Eu não tenho filosofia: tenho sentidos...
 Se falo na Natureza não é porque saiba o que ela é,
 
-Mas porque a amo, e amo-a por isso,
+Mas porque a amo, e amo-a por isso,
 Porque quem ama nunca sabe o que ama
 Nem sabe por que ama, nem o que é amar ...
 Amar é a eterna inocência,
 E a única inocência não pensar...
 
-III - Ao Entardecer
+# III - Ao Entardecer
 
 Ao entardecer, debruçado pela janela,
 E sabendo de soslaio que há campos em frente,
@@ -133,7 +129,7 @@ Mas andava na cidade como quem anda no campo
 E triste como esmagar flores em livros
 E pôr plantas em jarros...
 
-IV - Esta Tarde a Trovoada Caiu
+# IV - Esta Tarde a Trovoada Caiu
 
 Esta tarde a trovoada caiu
 Pelas encostas do céu abaixo
@@ -158,7 +154,7 @@ Do que julgo que sou...
 Sentia-me familiar e caseiro
 E tendo passado a vida
 
-Tranqüilamente, como o muro do quintal;
+Tranqüilamente, como o muro do quintal;
 Tendo idéias e sentimentos por os ter
 Como uma flor tem perfume e cor...
 
@@ -190,7 +186,7 @@ Fiquei sombrio e adoecido e soturno
 Como um dia em que todo o dia a trovoada ameaça
 E nem sequer de noite chega.
 
-V - Há Metafísica Bastante em Não Pensar em Nada
+# V - Há Metafísica Bastante em Não Pensar em Nada
 
 Há metafísica bastante em não pensar em nada.
 O que penso eu do mundo?
@@ -212,7 +208,7 @@ Quem está ao sol e fecha os olhos,
 Começa a não saber o que é o sol
 E a pensar muitas cousas cheias de calor.
 
-Mas abre os olhos e vê o sol,
+Mas abre os olhos e vê o sol,
 E já não pode pensar em nada,
 Porque a luz do sol vale mais que os pensamentos
 De todos os filósofos e de todos os poetas.
@@ -267,7 +263,7 @@ Porque, se ele se fez, para eu o ver,
 Sol e luar e flores e árvores e montes,
 Se ele me aparece como sendo árvores e montes
 
-E luar e sol e flores,
+E luar e sol e flores,
 É que ele quer que eu o conheça
 Como árvores e montes e flores e luar e sol.
 
@@ -280,7 +276,7 @@ E amo-o sem pensar nele,
 E penso-o vendo e ouvindo,
 E ando com ele a toda a hora.
 
-VI - Pensar em Deus
+# VI - Pensar em Deus
 
 Pensar em Deus é desobedecer a Deus,
 Porque Deus quis que o não conhecêssemos,
@@ -293,7 +289,7 @@ Belos como as árvores e os regatos,
 E dar-nos-á verdor na sua primavera,
 E um rio aonde ir ter quando acabemos! ...
 
-VII - Da Minha Aldeia
+# VII - Da Minha Aldeia
 
 Da minha aldeia veio quanto da terra se pode ver no Universo...
 Por isso a minha aldeia é tão grande como outra terra qualquer
@@ -309,7 +305,7 @@ Tornam-nos pequenos porque nos tiram o que os nossos olhos
 nos podem dar,
 E tornam-nos pobres porque a nossa única riqueza é ver.
 
-VIII - Num Meio-Dia de Fim de Primavera
+# VIII - Num Meio-Dia de Fim de Primavera
 
 Num meio-dia de fim de primavera
 Tive um sonho como uma fotografia.
@@ -319,7 +315,7 @@ Tornado outra vez menino,
 A correr e a rolar-se pela erva
 E a arrancar flores para as deitar fora
 
-E a rir de modo a ouvir-se de longe.
+E a rir de modo a ouvir-se de longe.
 
 Tinha fugido do céu.
 Era nosso demais para fingir
@@ -374,7 +370,7 @@ Corre atrás das raparigas pelas estradas
 Que vão em ranchos pela estradas
 com as bilhas às cabeças
 
-E levanta-lhes as saias.
+E levanta-lhes as saias.
 
 A mim ensinou-me tudo.
 Ensinou-me a olhar para as cousas.
@@ -428,7 +424,7 @@ Que é o de saber por toda a parte
 Que não há mistério no mundo
 E que tudo vale a pena.
 
-A Criança Eterna acompanha-me sempre.
+A Criança Eterna acompanha-me sempre.
 A direção do meu olhar é o seu dedo apontando.
 O meu ouvido atento alegremente a todos os sons
 São as cócegas que ele me faz, brincando, nas orelhas.
@@ -483,7 +479,7 @@ E deita-me na tua cama.
 E conta-me histórias, caso eu acorde,
 Para eu tornar a adormecer.
 
-E dá-me sonhos teus para eu brincar
+E dá-me sonhos teus para eu brincar
 Até que nasça qualquer dia
 Que tu sabes qual é.
 .....................................................................
@@ -493,7 +489,7 @@ Não há de ser ela mais verdadeira
 Que tudo quanto os filósofos pensam
 E tudo quanto as religiões ensinam?
 
-IX - Sou um Guardador de Rebanhos
+# IX - Sou um Guardador de Rebanhos
 
 Sou um guardador de rebanhos.
 O rebanho é os meus pensamentos
@@ -513,7 +509,7 @@ E fecho os olhos quentes,
 Sinto todo o meu corpo deitado na realidade,
 Sei a verdade e sou feliz.
 
-X - Olá, Guardador de Rebanhos
+# X - Olá, Guardador de Rebanhos
 
 "Olá, guardador de rebanhos,
 Aí à beira da estrada,
@@ -534,7 +530,7 @@ O vento só fala do vento.
 O que lhe ouviste foi mentira,
 E a mentira está em ti."
 
-XI - Aquela Senhora tem um Piano
+# XI - Aquela Senhora tem um Piano
 
 Aquela senhora tem um piano
 Que é agradável mas não é o correr dos rios
@@ -544,7 +540,7 @@ Para que é preciso ter um piano?
 O melhor é ter ouvidos
 E amar a Natureza.
 
-XII - Os Pastores de Virgílio
+# XII - Os Pastores de Virgílio
 
 Os pastores de Virgílio tocavam avenas e outras cousas
 E cantavam de amor literariamente.
@@ -554,7 +550,7 @@ Para que o havia eu de ler?)
 Mas os pastores de Virgílio, coitados, são Virgílio,
 E a Natureza é bela e antiga.
 
-XIII - Leve
+# XIII - Leve
 
 Leve, leve, muito leve,
 Um vento muito leve passa,
@@ -562,7 +558,7 @@ E vai-se, sempre muito leve.
 E eu não sei o que penso
 Nem procuro sabê-lo.
 
-XIV - Não me Importo com as Rimas
+# XIV - Não me Importo com as Rimas
 
 Não me importo com as rimas.Raras vezes
 Há duas árvores iguais, uma ao lado da outra.
@@ -575,7 +571,7 @@ Olho e comovo-me,
 Comovo-me como a água corre quando o chão é inclinado,
 E a minha poesia é natural corno o levantar-se vento...
 
-XV - As Quatro Canções
+# XV - As Quatro Canções
 
 As quatro canções que seguem
 Separam-se de tudo o que eu penso,
@@ -585,7 +581,7 @@ São do contrário do que eu sou ...
 Escrevi-as estando doente
 E por isso elas são naturais
 
-E concordam com aquilo que sinto,
+E concordam com aquilo que sinto,
 Concordam com aquilo com que não concordam ...
 Estando doente devo pensar o contrário
 Do que penso quando estou são.
@@ -602,7 +598,7 @@ Não são capazes de me renegar
 E são a paisagem da minha alma de noite,
 A mesma ao contrário ...
 
-XVI - Quem me Dera
+# XVI - Quem me Dera
 
 Quem me dera que a minha vida fosse um carro de bois
 Que vem a chiar, manhãzinha cedo, pela estrada,
@@ -614,7 +610,7 @@ A minha velhice não tinha rugas nem cabelo branco...
 Quando eu já não servia, tiravam-me as rodas
 E eu ficava virado e partido no fundo de um barranco.
 
-XVII - No meu Prato
+# XVII - No meu Prato
 
 No meu prato que mistura de Natureza!
 As minhas irmãs as plantas,
@@ -635,9 +631,9 @@ Verde e alagado surgiu
 E no ar por onde a pomba apareceu
 O arco-íris se esbateu...
 
-XVIII - Quem me Dera que eu Fosse o Pó da Estrada
+# XVIII - Quem me Dera que eu Fosse o Pó da Estrada
 
-Quem me dera que eu fosse o pó da estrada
+Quem me dera que eu fosse o pó da estrada
 E que os pés dos pobres me estivessem pisando...
 
 Quem me dera que eu fosse os rios que correm
@@ -652,7 +648,7 @@ E que ele me batesse e me estimasse...
 Antes isso que ser o que atravessa a vida
 Olhando para trás de si e tendo pena ...
 
-XIX - O Luar
+# XIX - O Luar
 
 O luar quando bate na relva
 Não sei que cousa me lembra...
@@ -665,7 +661,7 @@ Socorrendo as crianças maltratadas ...
 Se eu já não posso crer que isso é verdade,
 Para que bate o luar na relva?
 
-XX - O Tejo é mais Belo
+# XX - O Tejo é mais Belo
 
 O Tejo é mais belo que o rio que corre pela minha aldeia,
 Mas o Tejo não é mais belo que o rio que corre pela minha aldeia
@@ -689,13 +685,13 @@ Pelo Tejo vai-se para o Mundo.
 Para além do Tejo há a América
 E a fortuna daqueles que a encontram.
 
-Ninguém nunca pensou no que há para além
+Ninguém nunca pensou no que há para além
 Do rio da minha aldeia.
 
 O rio da minha aldeia não faz pensar em nada.
 Quem está ao pé dele está só ao pé dele.
 
-XXI - Se Eu Pudesse
+# XXI - Se Eu Pudesse
 
 Se eu pudesse trincar a terra toda
 E sentir-lhe uma paladar,
@@ -719,7 +715,7 @@ E quando se vai morrer, lembrar-se de que o dia morre,
 E que o poente é belo e é bela a noite que fica...
 Assim é e assim seja ...
 
-XXII - Num Dia de Verão
+# XXII - Num Dia de Verão
 
 Como quem num dia de Verão abre a porta de casa
 E espreita para o calor dos campos com a cara toda,
@@ -738,9 +734,9 @@ Ou que sentir desagrado porque é quente,
 E de qualquer maneira que eu o sinta,
 Assim, porque assim o sinto, é que é meu dever senti-lo...
 
-XXIII - O meu Olhar
+# XXIII - O meu Olhar
 
-O meu olhar azul como o céu
+O meu olhar azul como o céu
 É calmo como a água ao sol.
 É assim, azul e calmo,
 Porque não interroga nem se espanta ...
@@ -756,7 +752,7 @@ Porque tudo é como é e assim é que é,
 E eu aceito, e nem agradeço,
 Para não parecer que penso nisso...)
 
-XXIV - O que Nós Vemos
+# XXIV - O que Nós Vemos
 
 O que nós vemos das cousas são as cousas.
 Por que veríamos nós uma cousa se houvesse outra?
@@ -779,7 +775,7 @@ Mas onde afinal as estrelas não são senão estrelas
 Nem as flores senão flores.
 Sendo por isso que lhes chamamos estrelas e flores.
 
-XXV - As Bolas de Sabão
+# XXV - As Bolas de Sabão
 
 As bolas de sabão que esta criança
 Se entretém a largar de uma palhinha
@@ -793,12 +789,12 @@ Pretende que elas são mais do que parecem ser.
 
 Algumas mal se vêem no ar lúcido.
 
-São como a brisa que passa e mal toca nas flores
+São como a brisa que passa e mal toca nas flores
 E que só sabemos que passa
 Porque qualquer cousa se aligeira em nós
 E aceita tudo mais nitidamente.
 
-XXVI - Às Vezes
+# XXVI - Às Vezes
 
 Às vezes, em dias deluz perfeita e exata,
 Em que as cousas têm toda a realidade que podem ter,
@@ -822,7 +818,7 @@ Perante as cousas que simplesmente existem.
 
 Que difícil ser próprio e não ver senão o visível!
 
-XXVII - Só a Natureza é Divina
+# XXVII - Só a Natureza é Divina
 
 Só a natureza é divina, e ela não é divina...
 
@@ -838,13 +834,13 @@ E o nosso coração do tamanho de um punho fechado...
 Bendito seja eu por tudo quanto sei.
 Gozo tudo isso como quem sabe que há o sol.
 
-XXVIII - Li Hoje
+# XXVIII - Li Hoje
 
 Li hoje quase duas páginas
 Do livro dum poeta místico,
 E ri como quem tem chorado muito.
 
-Os poetas místicos são filósofos doentes,
+Os poetas místicos são filósofos doentes,
 E os filósofos são homens doidos.
 
 Porque os poetas místicos dizem que as flores sentem
@@ -872,7 +868,7 @@ E não a compreendo por dentro
 Porque a Natureza não tem dentro;
 Senão não era a Natureza.
 
-XXIX - Nem Sempre Sou Igual
+# XXIX - Nem Sempre Sou Igual
 
 Nem sempre sou igual no que digo e escrevo.
 Mudo, mas não mudo muito.
@@ -892,12 +888,12 @@ O mesmo sempre, graças ao céu e à terra
 E aos meus olhos e ouvidos atentos
 E à minha clara simplicidade de alma ...
 
-XXX - Se Quiserem que Eu Tenha um Misticismo
+# XXX - Se Quiserem que Eu Tenha um Misticismo
 
 Se quiserem que eu tenha um misticismo, está bem, tenho-o.
 Sou místico, mas só com o corpo.
 
-A minha alma é simples e não pensa.
+A minha alma é simples e não pensa.
 
 O meu misticismo é não querer saber.
 É viver e não pensar nisso.
@@ -907,7 +903,7 @@ Vivo no cimo dum outeiro
 Numa casa caiada e sozinha,
 E essa é a minha definição.
 
-XXXI - Se às Vezes Digo que as Flores Sorriem
+# XXXI - Se às Vezes Digo que as Flores Sorriem
 
 Se às vezes digo que as flores sorriem
 E se eu disser que os rios cantam,
@@ -923,7 +919,7 @@ Porque só sou essa cousa séria, um intérprete da Natureza,
 Porque há homens que não percebem a sua linguagem,
 Por ela não ser linguagem nenhuma.
 
-XXXII - Ontem à Tarde
+# XXXII - Ontem à Tarde
 
 Ontem à tarde um homem das cidades
 Falava à porta da estalagem.
@@ -950,7 +946,7 @@ Querer mais é perder isto, e ser infeliz.)
 Eu no que estava pensando
 Quando o amigo de gente falava
 
-(E isso me comoveu até às lágrimas),
+(E isso me comoveu até às lágrimas),
 Era em como o murmúrio longínquo dos chocalhos
 A esse entardecer
 Não parecia os sinos duma capela pequenina
@@ -969,7 +965,7 @@ E saber faze-lo sem pensar nisso.
 E o homem calara-se, olhando o poente.
 Mas que tem com o poente quem odeia e ama?
 
-XXXIII - Pobres das Flores
+# XXXIII - Pobres das Flores
 
 Pobres das flores dos canteiros dos jardins regulares.
 Parecem ter medo da polícia...
@@ -979,7 +975,7 @@ Que tiveram para o primeiro olhar do primeiro homem
 Que as viu aparecidas e lhes tocou levemente
 Para ver se elas falavam...
 
-XXXIV - Acho tão Natural que não se Pense
+# XXXIV - Acho tão Natural que não se Pense
 
 Acho tão natural que não se pense
 Que me ponho a rir às vezes, sozinho,
@@ -1003,9 +999,9 @@ E deixava de ver a Terra,
 Para ver só os meus pensamentos ...
 Entristecia e ficava às escuras.
 
-E assim, sem pensar tenho a Terra e o Céu.
+E assim, sem pensar tenho a Terra e o Céu.
 
-XXXV - O Luar
+# XXXV - O Luar
 
 O luar através dos altos ramos,
 Dizem os poetas todos que ele é mais
@@ -1018,7 +1014,7 @@ O luar através dos altos ramos,
 É não ser mais
 Que o luar através dos altos ramos.
 
-XXXVI - Há Poetas que são Artistas
+# XXXVI - Há Poetas que são Artistas
 
 E há poetas que são artistas
 E trabalham nos seus versos
@@ -1041,7 +1037,7 @@ E levar ao solo pelas Estações contentes
 E deixar que o vento cante para adormecermos
 E não termos sonhos no nosso sono.
 
-XXXVII - Como um Grande Borrão
+# XXXVII - Como um Grande Borrão
 
 Como um grande borrão de fogo sujo
 O sol posto demora-se nas nuvens que ficam.
@@ -1055,12 +1051,12 @@ Que aparece e desaparece.
 Também às vezes, à flor dos ribeiros,
 Formam-se bolhas na água
 
-Que nascem e se desmancham
+Que nascem e se desmancham
 E não têm sentido nenhum
 Salvo serem bolhas de água
 Que nascem e se desmancham.
 
-XXXVIII - Bendito seja o Mesmo Sol
+# XXXVIII - Bendito seja o Mesmo Sol
 
 Bendito seja o mesmo sol de outras terras
 Que faz meus irmãos todos os homens
@@ -1075,7 +1071,7 @@ Porque isso é natural — mais natural
 Que adorar o ouro e Deus
 E a arte e a moral ...
 
-XXXIX - O Mistério das Cousas
+# XXXIX - O Mistério das Cousas
 
 O mistério das cousas, onde está ele?
 Onde está ele que não aparece
@@ -1097,7 +1093,7 @@ Sim, eis o que os meus sentidos aprenderam sozinhos: —
 As cousas não têm significação: têm existência.
 As cousas são o único sentido oculto das cousas.
 
-XL - Passa uma Borboleta
+# XL - Passa uma Borboleta
 
 Passa uma borboleta por diante de mim
 E pela primeira vez no Universo eu reparo
@@ -1107,10 +1103,10 @@ A cor é que tem cor nas asas da borboleta,
 No movimento da borboleta o movimento é que se move,
 O perfume é que tem perfume no perfume da flor.
 
-A borboleta é apenas borboleta
+A borboleta é apenas borboleta
 E a flor é apenas flor.
 
-XLI - No Entardecer
+# XLI - No Entardecer
 
 No entardecer dos dias de Verão, às vezes,
 Ainda que não haja brisa nenhuma, parece
@@ -1134,7 +1130,7 @@ Se não houvesse imperfeição, havia uma cousa a menos,
 E deve haver muita cousa
 Para termos muito que ver e ouvir. . .
 
-XLII - Passou a Diligência
+# XLII - Passou a Diligência
 
 Passou a diligência pela estrada, e foi-se;
 E a estrada não ficou mais bela, nem sequer mais feia.
@@ -1142,7 +1138,7 @@ Assim é a ação humana pelo mundo fora.
 Nada tiramos e nada pomos; passamos e esquecemos;
 E o sol é sempre pontual todos os dias.
 
-XLIII - Antes o Vôo da Ave
+# XLIII - Antes o Vôo da Ave
 
 Antes o vôo da ave, que passa e não deixa rasto,
 Que a passagem do animal, que fica lembrada no chão.
@@ -1155,9 +1151,9 @@ O que foi não é nada, e lembrar é não ver.
 
 Passa, ave, passa, e ensina-me a passar!
 
-XLIV - Acordo de Noite
+# XLIV - Acordo de Noite
 
-Acordo de noite subitamente,
+Acordo de noite subitamente,
 E o meu relógio ocupa a noite toda.
 Não sinto a Natureza lá fora.
 O meu quarto é uma cousa escura com paredes vagamente brancas.
@@ -1172,7 +1168,7 @@ Enchendo com a sua pequenez a noite enorme
 É a curiosa sensação de encher a noite enorme
 Com a sua pequenez...
 
-XLV - Um Renque de Árvores
+# XLV - Um Renque de Árvores
 
 Um renque de árvores lá longe, lá para a encosta.
 Mas o que é um renque de árvores? Há árvores apenas.
@@ -1184,7 +1180,7 @@ Que põem letreiros com nomes nas árvores absolutamente reais,
 E desenham paralelos de latitude e longitude
 Sobre a própria terra inocente e mais verde e florida do que isso!
 
-XLVI - Deste Modo ou Daquele Modo
+# XLVI - Deste Modo ou Daquele Modo
 
 Deste modo ou daquele modo.
 Conforme calha ou não calha.
@@ -1210,7 +1206,7 @@ Procuro esquecer-me do modo de lembrar que me ensinaram,
 E raspar a tinta com que me pintaram os sentidos,
 Desencaixotar as minhas emoções verdadeiras,
 
-Desembrulhar-me e ser eu, não Alberto Caeiro,
+Desembrulhar-me e ser eu, não Alberto Caeiro,
 Mas um animal humano que a Natureza produziu.
 
 E assim escrevo, querendo sentir a Natureza, nem sequer como um homem,
@@ -1235,7 +1231,7 @@ Ainda assim já se lhe vêem as pontas dos dedos
 Agarrando o cimo do muro
 Do horizonte cheio de montes baixos.
 
-XLVII - Num Dia Excessivamente Nítido
+# XLVII - Num Dia Excessivamente Nítido
 
 Num dia excessivamente nítido,
 Dia em que dava a vontade de ter trabalhado muito
@@ -1261,9 +1257,9 @@ Acertei que devia ser a verdade
 Que todos andam a achar e que não acham,
 E que só eu, porque a não fui achar, achei.
 
-XLVIII - Da Mais Alta Janela da Minha Casa
+# XLVIII - Da Mais Alta Janela da Minha Casa
 
-Da mais alta janela da minha casa
+Da mais alta janela da minha casa
 Com um lenço branco digo adeus
 Aos meus versos que partem para a Humanidade.
 
@@ -1295,7 +1291,7 @@ Corre o rio e entra no mar e a sua água é sempre a que foi sua.
 
 Passo e fico, como o Universo.
 
-XLIX - Meto-me para Dentro
+# XLIX - Meto-me para Dentro
 
 Meto-me para dentro, e fecho a janela.
 Trazem o candeeiro e dão as boas noites,
@@ -1311,5 +1307,3 @@ E depois, fechada a janela, o candeeiro aceso,
 Sem ler nada, nem pensar em nada, nem dormir,
 Sentir a vida correr por mim como um rio por seu leito.
 E lá fora um grande silêncio como um deus que dorme.
-
-
