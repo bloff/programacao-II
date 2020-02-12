@@ -1,0 +1,5 @@
+Aula Teórica 02
+* Marcação de horário de dúvidas
+* Substituiçoẽs futuras
+* Debug e inspeção
+* Ordenação de coisas
