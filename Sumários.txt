@@ -1,0 +1,14 @@
+Aula Teórica 02
+* Marcação de horário de dúvidas
+ - 4as 1230 - 1330
+* Substituiçoẽs futuras
+ 15 Abril
+ 27 e 29 Abril
+* Debug e inspeção
+* Ordenação de coisas
+
+Aula Teórica 03
+* Tipos, e conversão entre tipos.
+* Selecção e ordenação de dados
+* Aglomeração de dados
+* Remoção de duplicados
