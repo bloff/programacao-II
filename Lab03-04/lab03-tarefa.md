@@ -15,7 +15,8 @@ Neste novo módulo define uma classe chamada `DataFrame`:
 class DataFrame:
     
 	def __init__(self, coln, rows, dtypes):
-        ...
+        self.coln = coln
+        ... etc ...
 ```
 
 
@@ -76,7 +77,7 @@ print(database)
 deve produzir:
 
 ```
-      codigo    nome tipo       data partido  num_votos  perc_votos  mandatos
+  codigo    nome tipo       data partido  num_votos  perc_votos  mandatos
    10000  Aveiro   AR 1975-04-25     PPD     141872       42.86         7
    10000  Aveiro   AR 1975-04-25      PS     105098       31.75         5
    10000  Aveiro   AR 1975-04-25     CDS      36602       11.06         2
