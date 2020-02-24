@@ -1,4 +1,4 @@
-Aula Laboratorial 02 - `babypandas`
+Aula Laboratorial 03 - `babypandas`
 -------------------------
 
 Uma das tarefas principais desta cadeira será a criação de uma versão "bébé" de uma biblioteca de análise de dados. Para tal, estive a estudar a biblioteca Pandas, para que a interface que vos vou pedir para criar fosse semelhante.
@@ -14,7 +14,7 @@ Neste novo módulo define uma classe chamada `DataFrame`:
 ```python
 class DataFrame:
     
-	def __init__(self, cols, rows, dtypes):
+	def __init__(self, coln, rows, dtypes):
         ...
 ```
 
@@ -24,11 +24,11 @@ Um objecto do tipo `DataFrame` deve guardar uma tabela cujas colunas têm um nom
 
 Esta informação vai ser guardada de forma diferente do que é feito na biblioteca Pandas, para ser mais simples.
 
-Um objecto `DataFrame` deve ter três propriedades:
+Um objecto `DataFrame` deve ter quatro atributos:
 
-* Um atributo, `cols`, que é um diccionário, cujas chaves são os nomes das colunas, e cujos valores são os índices das colunas dentro de cada linha.
 * Um atributo, `coln`, que é uma lista, em que o i-ésimo elemento é o nome da i-ésima coluna.
-*  Um atributo, `rows`, que é uma lista, em que a j-ésima entrada da lista é a j-ésima linha dos nossos dados. Cada linha é por sua vez uma lista, em que a i-ésima entrada é o valor da i-ésima coluna nessa linha da tabela.
+* Um atributo, `cols`, que é um diccionário, cujas chaves são os nomes das colunas, e cujos valores são os índices das colunas dentro de cada linha.
+* Um atributo, `rows`, que é uma lista, em que a j-ésima entrada da lista é a j-ésima linha dos nossos dados. Cada linha é por sua vez uma lista, em que a i-ésima entrada é o valor da i-ésima coluna nessa linha da tabela.
 *  Um atributo, `dtypes`, que é uma lista, tal que a entrada `dtypes[cols['column_name']]` é o tipo de dados da coluna cujo nome é `'column_name'`.
 
 > **Nota.** A representação de uma tabela que vamos utilizar na nossa biblioteca `babypandas` é
