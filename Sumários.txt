@@ -10,5 +10,15 @@ Aula Teórica 02
 Aula Teórica 03
 * Tipos, e conversão entre tipos.
 * Selecção e ordenação de dados
+
+Aula 04
 * Aglomeração de dados
-* Remoção de duplicados
+* TPC: Remoção de duplicados
+
+
+Aula 05
+* Introdução aos objectos em Python
+* Três princípios fundamentais de programação
+
+
+
