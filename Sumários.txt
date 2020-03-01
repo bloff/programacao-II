@@ -21,4 +21,12 @@ Aula 05
 * Três princípios fundamentais de programação
 
 
+Aula 06
+* Re-avaliação da cadeira.
+* Levantamento de conhecimento dos alunos.
+* Expressões, statements, e definições.
+
+Aula 07
+* funções, ambientes locais, argumentos, variáveis locais, call stack, return values
+
 
