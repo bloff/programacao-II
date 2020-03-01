@@ -14,7 +14,7 @@ Neste novo módulo define uma classe chamada `DataFrame`:
 ```python
 class DataFrame:
     
-	def __init__(self, coln, rows, dtypes):
+	def __init__(self, coln, rows):
         self.coln = coln
         ... etc ...
 ```
@@ -30,7 +30,6 @@ Um objecto `DataFrame` deve ter quatro atributos:
 * Um atributo, `coln`, que é uma lista, em que o i-ésimo elemento é o nome da i-ésima coluna.
 * Um atributo, `cols`, que é um diccionário, cujas chaves são os nomes das colunas, e cujos valores são os índices das colunas dentro de cada linha.
 * Um atributo, `rows`, que é uma lista, em que a j-ésima entrada da lista é a j-ésima linha dos nossos dados. Cada linha é por sua vez uma lista, em que a i-ésima entrada é o valor da i-ésima coluna nessa linha da tabela.
-*  Um atributo, `dtypes`, que é uma lista, tal que a entrada `dtypes[cols['column_name']]` é o tipo de dados da coluna cujo nome é `'column_name'`.
 
 > **Nota.** A representação de uma tabela que vamos utilizar na nossa biblioteca `babypandas` é
 
@@ -218,6 +217,32 @@ deve imprimir:
 
 ## 08. O Método `drop_duplicates`
 
+Aceita um nome de coluna, ou uma lista de nomes de colunas, e devolve um novo dataframe em que, de entre todas as linhas com o mesmo valor nessas colunas, se manteve apenas a primeira.
+
 ## 09. O Método `group_by`
 
-(próxima semana)
+Aceita uma lista `columns`de nomes de colunas, e um diccionário `agg` em que as chaves são nomes de colunas (fora da lista), e os valores são funções que aceitam uma lista e devolvem um valor.
+
+A função agrupa todas as linhas `self` que têm o mesmo valor nas colunas em `columns`. Para cada grupo, vai a cada coluna em agg, e junta todas as entradas dessa coluna (dentro do grupo) numa lista, e invoca a função correspondente, obtendo um valor. Cada grupo gera então uma só linha no novo data frame.
+
+Por exemplo se o dataframe `db` é
+
+```
+    nome   escalão   género   pontos   
+   joana         A        F       10
+  isabel         A        F       20
+patricia         B        F       3	
+   marta         B        F       5
+   marco         A        M       2	
+    fred         A        M       2	
+```
+
+O resultado de chamar `db.group_by(['escalão', 'género'], {'pontos': sum})` será o dataframe
+
+```
+escalão   género  pontos
+      A        F      30
+      B        F       8
+      A        M       4
+```
+
