@@ -7,15 +7,15 @@ def parse_string(input, pos):
     ret = ""
     while pos < len(input):
         char = input[pos]
-
         if char == '"':
             return (pos + 1, ret)
         else:
             ret += char
-
         pos += 1
 
     raise Exception("Input does not contain a string at position {0}!".format(givenpos))
+
+parse_string('"abc"', 0)
 
 def parse_number(input, pos):
     givenpos = pos
@@ -89,8 +89,9 @@ def parse_nested_list(input, pos):
             read_comma_or_end()
         else:
             raise Exception("Unexpected char {1} at position {0}!".format(pos, char))
-        skip_whitespace()
 
     raise Exception("Input does not contain a nested list at position {0}!".format(givenpos))
 
-parse_nested_list('[200 300]', 0)
+print(
+    parse_nested_list('[123, ["abc", 456], 789]', 0)
+)

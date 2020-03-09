@@ -21,7 +21,7 @@ parse_string('{ 123, "abccde, 456 }', 7)
 devem devolver/fazer raise de, respectivamente:
 
 ```python
-(4, 'abc')
+(5, 'abc')
 (15, 'abccde')
 Exception: Input does not contain a string at position 7!
 ```
@@ -80,7 +80,7 @@ parse_nested_list('[200 300]', 0)
 devem devolver/fazer raise de, respectivamente:
 
 ```python
-(17, [123, 'abc', 456])(4, 123)
+(17, [123, 'abc', 456])
 (26, [200, ['abc', 'def'], 300])
 (20, ['abc', 'def'])
 Exception: Input does not contain a nested list at position 1!
