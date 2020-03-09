@@ -29,4 +29,17 @@ Aula 06
 Aula 07
 * funções, ambientes locais, argumentos, variáveis locais, call stack, return values
 
+Aula 08
+
+* Debug
+
+Aula 09
+
+* Funções locais e seu ambiente
+* global vs local vs nonlocal
+* strings - concatenação, manipulação, iteração, format
+
+
+
+
 

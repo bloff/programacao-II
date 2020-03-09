@@ -71,7 +71,7 @@ def count_str_int(nlist):
 print(count_str_int(10))
 
 
-nested_list = [1, 2, "abc", [1, "c", 39]]
+nested_list = [1, 2, "abc", [1, "c", "39"]]
 print(count_str_int(nested_list))
 
 # Exemplo de uso de variáveis globais
