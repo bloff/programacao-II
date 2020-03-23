@@ -32,7 +32,7 @@ Faz uma função `parse_number` que aceita como parâmetros uma string `input`, 
 
 * Um número é uma string que pode começar com um `+` ou um `-` (que podem, no entanto, estar omissos), seguidos de um ou mais caractéres numéricos `0-9`, possivelmente seguidos de um `.` e de um ou mais caractéres numéricos.
 * Se o `input` não for desta forma na posição `pos`, a função deve fazer raise de uma `Exception`, com uma mensagem de erro apropriada - "Input does not contain a number at position X!"
-* Se for, a função deve devolver um par `(posafter, number)` em que `posafter` é a posição que vem a seguir do número lido `"`, e `number` é o número lido, que deve ser um `int` se não existir um `.`, e deve ser um `float` se existir.
+* Se for, a função deve devolver um par `(posafter, number)` em que `posafter` é a posição que vem a seguir do número lido, e `number` é o número lido, que deve ser um `int` se não existir um `.`, e deve ser um `float` se existir.
 
 Por exemplo, as seguintes chamadas:
 
@@ -96,7 +96,7 @@ Por exemplo:
 ```json
 [
     { 
-        "nome": "João",
+        "nome"  :   "João",
         "idade": 33,
         "números de telefone":
             [

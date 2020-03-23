@@ -40,6 +40,18 @@ Aula 09
 * strings - concatenação, manipulação, iteração, format
 
 
+Aula 10
 
+* Walthrough pela resolução parcial das aulas laboratoriais 5/6.
+
+
+Aula 11
+
+* Continuação da aula anterior.
+
+
+Aula 12
+
+* Introdução à biblioteca de visualização de dados, matplotlib.
 
 
