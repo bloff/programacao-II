@@ -10,14 +10,14 @@ Vamos obter dados simples sobre índices de várias bolsas, para que os possamos
 
 Obtém os dados seguintes, do dia 1 de Fevereiro até ao dia de hoje - Na data de entrega do projecto, os dados devem ter no máximo um mês de idade. Vais precisar de criar uma conta no investing.com.
 
-* Nasdaq - índice de bolsa dos EUA: https://www.investing.com/indices/nasdaq-composite
-* Euro Stox 50 - índice de bolsa da UE: https://www.investing.com/indices/eu-stoxx50
-* FTSE 100 - índice de bolsa do Reino unido: https://www.investing.com/indices/uk-100
-* DAX - índice de bolsa da Alemanha: https://www.investing.com/indices/germany-30
-* PSI 20 - de Portugal: https://www.investing.com/indices/psi-20
-* FTSE MIB - de Itália: https://www.investing.com/indices/it-mib-40
-* da China: https://www.investing.com/indices/ftse-china-a50
-* da Koreia do Sul: https://www.investing.com/indices/kospi
+* Nasdaq - índice de bolsa dos EUA: https://www.investing.com/indices/nasdaq-composite-historical-data
+* Euro Stox 50 - índice de bolsa da UE: https://www.investing.com/indices/eu-stoxx50-historical-data
+* FTSE 100 - índice de bolsa do Reino unido: https://www.investing.com/indices/uk-100-historical-data
+* DAX - índice de bolsa da Alemanha: https://www.investing.com/indices/germany-30-historical-data
+* PSI 20 - de Portugal: https://www.investing.com/indices/psi-20-historical-data
+* FTSE MIB - de Itália: https://www.investing.com/indices/it-mib-40-historical-data
+* da China: https://www.investing.com/indices/ftse-china-a50-historical-data
+* da Koreia do Sul: https://www.investing.com/indices/kospi-historical-data
 
 Depois de sacares os dados em csv, abre o ficheiro para veres como eles estão guardados. Observa que, inusualmente, os valores de todas as colunas aparecem entre aspas.
 
