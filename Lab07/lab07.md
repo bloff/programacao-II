@@ -1,4 +1,4 @@
-# Aula Laboratorial 05 e 06
+# Aula Laboratorial 07 e 08
 
 Nestas aulas vamos treinar fazer gráficos no matplotlib.
 
