@@ -12,11 +12,11 @@ Por exemplo, em 1976, houve distritos que votaram no PS (rosa), PSD (laranja), C
 
 Já em 1991 a maioria dos distritos votaram no PSD.
 
-![1976](resultados_1991.png)
+![1991](resultados_1991.png)
 
 Em 1995, a maioria votou no PS:
 
-![1976](resultados_1995.png)
+![1995](resultados_1995.png)
 
 O objectivo deste trabalho é fazer um programa que produza imagens como estas para todos os anos das eleições dos dados que temos.
 
@@ -49,7 +49,22 @@ Vai ser necessário:
 Pode ser utilizado o seguinte mapa entre nomes-de-partido e cores:
 
 ```python
-cores_partido = {'PPD': '#FF9900', 'PS': '#FF66FF', 'CDS': '#0093DD', 'MDP': 'gray', 'PCP': '#CC0000', 'MES': 'gray', 'FEC': 'gray', 'PUP': 'gray', 'UDP': 'gray', 'FSP': 'gray', 'PPM': 'gray', 'LCI': 'gray', 'ADIM': 'gray', 'CDM': 'gray', 'MRPP': 'gray', 'AOC': 'gray', 'PDC': 'gray', 'PCP (M-L)': 'gray', 'PRT': 'gray', 'PSD': 'gray', 'APU': '#CC0000', 'PCTP/MRPP': '#CC0000', 'PSR': 'gray', 'AD': '#FF9900', 'UEDS': 'gray', 'POUS': '#FF0000', 'OCMLP': 'gray', 'UDA/PDA': 'gray', 'POUS/PST': 'gray', 'PT': 'gray', 'FRS': 'gray', 'PDC/MIRN-PDP/FN': 'gray', 'PPD/PSD': '#FF9900', 'PDA': 'gray', 'LST': 'gray', 'UDP/PSR': 'gray', 'PC(R)': 'gray', 'PRD': 'gray', 'CDU': '#CC0000', 'MDP/CDE': 'gray', 'PSN': 'gray', 'FER': 'gray', 'CDS-PP': '#0093DD', 'PPM/MPT': '#013220', 'PG': 'gray', 'MPT': '#013220', 'MUT': 'gray', 'BE': '#8B0000', 'PH': 'gray', 'PNR': 'gray', 'PND': 'gray', 'MEP': 'gray', 'MMS': 'gray', 'PPV': 'gray', 'MPT-PH': '#013220', 'PTP': '#CC0000', 'PAN': '#2C8028'}
+cores_partido = {
+    'PPD': '#FF9900', 'PS': '#FF66FF', 'CDS': '#0093DD', 'MDP': 'gray',
+    'PCP': '#CC0000', 'MES': 'gray', 'FEC': 'gray', 'PUP': 'gray', 
+    'UDP': 'gray', 'FSP': 'gray', 'PPM': 'gray', 'LCI': 'gray', 
+    'ADIM': 'gray', 'CDM': 'gray', 'MRPP': 'gray', 'AOC': 'gray', 
+    'PDC': 'gray', 'PCP (M-L)': 'gray', 'PRT': 'gray', 'PSD': 'gray',
+    'APU': '#CC0000', 'PCTP/MRPP': '#CC0000', 'PSR': 'gray', 
+    'AD': '#FF9900', 'UEDS': 'gray', 'POUS': '#FF0000', 'OCMLP': 'gray',
+    'UDA/PDA': 'gray', 'POUS/PST': 'gray', 'PT': 'gray', 'FRS': 'gray',
+    'PDC/MIRN-PDP/FN': 'gray', 'PPD/PSD': '#FF9900', 'PDA': 'gray', 
+    'LST': 'gray', 'UDP/PSR': 'gray', 'PC(R)': 'gray', 'PRD': 'gray',
+    'CDU': '#CC0000', 'MDP/CDE': 'gray', 'PSN': 'gray', 'FER': 'gray',
+    'CDS-PP': '#0093DD', 'PPM/MPT': '#013220', 'PG': 'gray', 
+    'MPT': '#013220', 'MUT': 'gray', 'BE': '#8B0000', 'PH': 'gray',
+    'PNR': 'gray', 'PND': 'gray', 'MEP': 'gray', 'MMS': 'gray', 
+    'PPV': 'gray', 'MPT-PH': '#013220', 'PTP': '#CC0000', 'PAN': '#2C8028'}
 ```
 
 ## Pontos extra
